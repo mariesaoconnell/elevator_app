@@ -1,5 +1,12 @@
 ## Prompt
 
+### Live Link: https://mariesas-elevator-simulation.netlify.app/
+
+
+Overall, this definitely took a bit more than the recommended time to take listed, BUT my explanations above fell within that time frame! The prompts inspired me to build the simulation and my justification is that that I would be able to more thoroughly explain the thoughts / trials / tribulations that I dealt with in the building process. I'm definitely going to keep working to add in the changes I feel are necessary to handle where my program falls short, but I do want to go ahead and get these in so it doesn't seem like I waited until the last minute!
+
+___
+
 ```
 In the near future a fictional company is opening a new building named "East" with 4 floors (East 1-4) and 2 elevators.
 
@@ -32,5 +39,3 @@ Given all you thought through, how would you analyze the need for elevators in t
 > I feel that I worked backwards when coming up with my own simulation and proposed structure for the program, which will definitely was and will be a pain for the modifications I made and will have to make to truly be able to handle the above prompts. I should have focused from 'big' to 'small'. Work on the ability to add a building and give the user the ability to add the necessary elevators and floors. Once able to create and update, move on to the elevator properties- movement / buttons / etc.
 
 ___
-
-Overall, this definitely took a bit more than the recommended time to take listed, BUT my explanations above fell within that time frame! The prompts inspired me to build the simulation and my justification is that that I would be able to more thoroughly explain the thoughts / trials / tribulations that I dealt with in the building process. I'm definitely going to keep working to add in the changes I feel are necessary to handle where my program falls short, but I do want to go ahead and get these in so it doesn't seem like I waited until the last minute! 
